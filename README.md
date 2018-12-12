@@ -1,4 +1,10 @@
-### Steps
+## Firefox, Hide Top Tabs
+
+This is a short tutorial to hide top tabs on Firefox and move the tabs feature to the left side of the brower with the Tree Style Tab extension.
+
+![img](https://github.com/converge/firefox-hide-top-tabs/blob/master/screenshots/firefox-hidden-top-tabs.png)
+
+### Tutorial
 
 1. Open Firefox.
 2. From the *Help* menu, choose *Troubleshooting Information*. The Troubleshooting Information tab will open.
@@ -17,5 +23,5 @@
 }
 ```
 7. Restart Firefox.
-8. Install [Tree Style](https://addons.mozilla.org/en/firefox/addon/tree-style-tab/) Tab extension
+8. Install [Tree Style Tab](https://addons.mozilla.org/en/firefox/addon/tree-style-tab/) extension
 9. enjoy it :)
